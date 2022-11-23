@@ -26,3 +26,6 @@
 
 **Обратите внимание**: в файлах `App.js` расположено несколько компонентов не потому, что так нужно делать, а для вашего удобства (чтобы вам было удобнее копировать). Будет хорошо, если в своём решении вы разнесёте их по разным файлам.
 
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/wvbfcmavoqfa0ohs/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-router-menu/branch/main)

@@ -15,7 +15,7 @@ export default function Menu() {
               className={({ isActive }) =>
                 isActive ? `${classBased} menu__item-active` : classBased
               }
-              to={item.path}
+              to={"/ra-router-menu" + item.path}
             >
               {item.name}
             </NavLink>
